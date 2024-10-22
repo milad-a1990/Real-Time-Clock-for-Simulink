@@ -1,6 +1,3 @@
-# Real-time-Clock-for-Simulink
-Real-time clock implementation for Simulink via S-Function
-
 # RealTimeClock.cpp
 
 This repository contains the **RealTimeClock.cpp** file, along with the precompiled **RealTimeClock.mexw64** file and a Simulink test model **RealTimeClock_test.slx** to evaluate its performance. The code provides a real-time clock functionality, designed for integration into Simulink via an S-Function.
